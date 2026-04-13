@@ -1,0 +1,1201 @@
+customer_id,signup_date,country,acquisition_channel,current_plan
+1,2024-02-17,Egypt,Social,Basic
+2,2025-08-09,Egypt,Paid Search,Standard
+3,2024-06-22,Qatar,Direct,Premium
+4,2025-05-08,Egypt,Organic,Premium
+5,2024-11-18,Saudi Arabia,Organic,Premium
+6,2024-11-05,Qatar,Paid Search,Basic
+7,2024-04-30,Egypt,Organic,Standard
+8,2025-07-28,Egypt,Organic,Premium
+9,2025-02-15,Egypt,Organic,Standard
+10,2025-02-04,UAE,Paid Search,Basic
+11,2024-03-12,Egypt,Paid Search,Premium
+12,2024-01-16,Egypt,Paid Search,Premium
+13,2025-08-18,UAE,Direct,Premium
+14,2024-03-23,Qatar,Direct,Basic
+15,2025-05-17,Jordan,Direct,Basic
+16,2025-03-04,Saudi Arabia,Paid Search,Basic
+17,2025-04-19,Jordan,Social,Premium
+18,2024-01-07,Qatar,Social,Standard
+19,2025-09-17,Saudi Arabia,Paid Search,Standard
+20,2025-08-24,Saudi Arabia,Paid Search,Basic
+21,2024-07-30,Qatar,Direct,Premium
+22,2024-08-28,Jordan,Paid Search,Standard
+23,2024-11-05,Qatar,Organic,Basic
+24,2024-10-16,Saudi Arabia,Direct,Premium
+25,2025-03-04,Egypt,Organic,Standard
+26,2025-09-05,UAE,Organic,Premium
+27,2024-12-14,Qatar,Social,Basic
+28,2024-01-03,Saudi Arabia,Referral,Premium
+29,2025-06-27,UAE,Referral,Basic
+30,2025-07-28,Qatar,Referral,Premium
+31,2024-09-08,Jordan,Paid Search,Premium
+32,2024-03-18,Egypt,Direct,Basic
+33,2025-02-28,Egypt,Direct,Basic
+34,2025-01-30,Egypt,Referral,Premium
+35,2024-08-15,Jordan,Referral,Premium
+36,2025-06-24,Qatar,Organic,Basic
+37,2025-01-23,Saudi Arabia,Direct,Premium
+38,2024-05-25,Qatar,Organic,Standard
+39,2024-01-02,UAE,Social,Basic
+40,2024-04-27,Egypt,Organic,Premium
+41,2024-06-08,Egypt,Referral,Basic
+42,2025-04-01,Jordan,Paid Search,Basic
+43,2025-06-09,Qatar,Organic,Premium
+44,2024-03-08,Egypt,Paid Search,Standard
+45,2024-06-02,Qatar,Paid Search,Premium
+46,2025-02-28,Qatar,Paid Search,Premium
+47,2024-10-30,Saudi Arabia,Direct,Standard
+48,2024-01-31,Jordan,Social,Basic
+49,2025-06-12,Qatar,Direct,Standard
+50,2025-08-01,UAE,Social,Premium
+51,2024-10-09,Jordan,Organic,Standard
+52,2025-07-06,Jordan,Social,Premium
+53,2024-04-25,Qatar,Social,Basic
+54,2024-06-24,Egypt,Social,Standard
+55,2024-05-15,Jordan,Direct,Basic
+56,2025-06-27,UAE,Organic,Basic
+57,2025-10-01,Jordan,Social,Basic
+58,2024-06-28,Egypt,Paid Search,Premium
+59,2024-09-27,Saudi Arabia,Referral,Basic
+60,2024-11-29,Qatar,Social,Premium
+61,2024-07-07,Saudi Arabia,Referral,Premium
+62,2025-05-11,Jordan,Organic,Basic
+63,2024-01-12,Saudi Arabia,Paid Search,Standard
+64,2024-06-15,Saudi Arabia,Paid Search,Standard
+65,2025-09-02,Jordan,Direct,Basic
+66,2024-06-08,UAE,Social,Standard
+67,2024-09-11,Jordan,Paid Search,Premium
+68,2024-09-29,Qatar,Social,Standard
+69,2024-03-01,UAE,Direct,Standard
+70,2025-04-04,Jordan,Paid Search,Standard
+71,2024-09-05,Egypt,Referral,Basic
+72,2024-11-11,Jordan,Referral,Standard
+73,2024-08-15,Egypt,Referral,Premium
+74,2024-03-22,Qatar,Social,Standard
+75,2024-10-12,Jordan,Paid Search,Standard
+76,2024-10-05,Qatar,Direct,Basic
+77,2024-05-01,Saudi Arabia,Direct,Standard
+78,2025-05-25,UAE,Direct,Standard
+79,2024-10-10,Egypt,Social,Basic
+80,2024-07-21,UAE,Paid Search,Standard
+81,2024-02-09,Egypt,Social,Standard
+82,2025-09-10,Qatar,Direct,Standard
+83,2024-10-17,Qatar,Organic,Basic
+84,2025-01-16,Qatar,Referral,Premium
+85,2025-05-11,UAE,Paid Search,Premium
+86,2024-02-21,Saudi Arabia,Paid Search,Premium
+87,2025-06-21,Egypt,Paid Search,Basic
+88,2025-02-24,Qatar,Direct,Basic
+89,2024-01-12,Egypt,Social,Standard
+90,2024-03-15,Egypt,Direct,Premium
+91,2025-02-21,UAE,Paid Search,Standard
+92,2025-01-21,Qatar,Direct,Premium
+93,2024-06-07,Qatar,Direct,Premium
+94,2025-07-15,UAE,Paid Search,Standard
+95,2025-07-20,Egypt,Social,Premium
+96,2025-06-11,Egypt,Social,Standard
+97,2025-09-17,UAE,Referral,Standard
+98,2024-01-13,Saudi Arabia,Organic,Basic
+99,2024-09-17,Qatar,Paid Search,Basic
+100,2025-06-19,Saudi Arabia,Direct,Basic
+101,2024-04-07,Saudi Arabia,Paid Search,Premium
+102,2025-06-24,UAE,Direct,Basic
+103,2024-06-07,UAE,Social,Basic
+104,2024-01-31,Jordan,Organic,Standard
+105,2024-10-31,Jordan,Social,Standard
+106,2024-05-30,Qatar,Organic,Standard
+107,2024-08-20,Jordan,Referral,Premium
+108,2025-07-31,Jordan,Paid Search,Standard
+109,2024-05-01,Jordan,Paid Search,Premium
+110,2025-08-11,Egypt,Referral,Basic
+111,2025-07-10,Egypt,Paid Search,Basic
+112,2025-08-28,Qatar,Direct,Standard
+113,2024-12-01,Egypt,Referral,Basic
+114,2024-05-18,Saudi Arabia,Organic,Standard
+115,2025-09-27,UAE,Organic,Premium
+116,2024-07-06,UAE,Referral,Basic
+117,2024-02-01,Qatar,Social,Standard
+118,2025-03-14,Qatar,Organic,Premium
+119,2024-09-24,Qatar,Direct,Standard
+120,2024-05-08,Qatar,Direct,Basic
+121,2025-01-13,Egypt,Direct,Basic
+122,2024-01-05,Jordan,Social,Premium
+123,2025-01-08,UAE,Organic,Standard
+124,2025-09-22,Egypt,Social,Basic
+125,2025-06-22,Egypt,Direct,Standard
+126,2025-05-06,UAE,Referral,Basic
+127,2024-11-13,UAE,Referral,Standard
+128,2024-09-20,Jordan,Paid Search,Standard
+129,2024-08-18,Jordan,Paid Search,Standard
+130,2025-09-25,Saudi Arabia,Social,Basic
+131,2024-01-14,Jordan,Social,Standard
+132,2025-05-22,UAE,Paid Search,Basic
+133,2025-05-23,Saudi Arabia,Organic,Basic
+134,2025-03-05,Jordan,Direct,Premium
+135,2024-07-02,Jordan,Paid Search,Premium
+136,2024-12-07,Qatar,Direct,Premium
+137,2024-03-13,Qatar,Paid Search,Premium
+138,2025-05-10,UAE,Paid Search,Standard
+139,2024-02-11,UAE,Referral,Premium
+140,2024-07-07,Saudi Arabia,Referral,Standard
+141,2025-04-04,Saudi Arabia,Direct,Premium
+142,2024-01-01,Saudi Arabia,Social,Standard
+143,2024-01-27,Egypt,Direct,Standard
+144,2024-05-11,UAE,Referral,Basic
+145,2024-01-06,Egypt,Social,Standard
+146,2024-03-19,Qatar,Organic,Standard
+147,2024-02-04,Qatar,Referral,Basic
+148,2025-05-09,UAE,Paid Search,Premium
+149,2025-08-30,Saudi Arabia,Organic,Standard
+150,2024-12-26,Egypt,Paid Search,Standard
+151,2024-02-07,Qatar,Organic,Premium
+152,2024-12-28,Qatar,Organic,Standard
+153,2024-12-20,Qatar,Organic,Premium
+154,2024-04-07,Saudi Arabia,Social,Standard
+155,2024-10-04,Qatar,Social,Premium
+156,2025-01-09,UAE,Direct,Premium
+157,2024-04-29,Egypt,Organic,Premium
+158,2025-05-18,Egypt,Organic,Basic
+159,2024-10-18,Jordan,Direct,Basic
+160,2024-01-13,Saudi Arabia,Referral,Standard
+161,2024-04-30,Qatar,Referral,Basic
+162,2024-09-11,Qatar,Direct,Basic
+163,2024-07-01,Jordan,Direct,Basic
+164,2024-08-02,Qatar,Social,Standard
+165,2024-06-13,Jordan,Paid Search,Premium
+166,2025-01-15,Qatar,Direct,Standard
+167,2024-10-12,Jordan,Social,Premium
+168,2025-07-07,Jordan,Paid Search,Standard
+169,2024-11-25,UAE,Direct,Premium
+170,2024-12-12,Jordan,Social,Standard
+171,2025-03-23,Qatar,Paid Search,Basic
+172,2024-08-30,Saudi Arabia,Social,Basic
+173,2024-07-23,Jordan,Paid Search,Premium
+174,2025-04-24,Saudi Arabia,Referral,Basic
+175,2025-05-30,Qatar,Organic,Standard
+176,2025-05-14,Jordan,Direct,Premium
+177,2025-09-11,Qatar,Social,Basic
+178,2025-09-02,UAE,Organic,Premium
+179,2024-04-30,Qatar,Direct,Basic
+180,2025-07-07,Saudi Arabia,Paid Search,Basic
+181,2024-04-04,UAE,Paid Search,Standard
+182,2025-01-22,Jordan,Organic,Standard
+183,2025-07-04,Saudi Arabia,Direct,Standard
+184,2025-07-28,Jordan,Referral,Basic
+185,2025-02-12,UAE,Paid Search,Premium
+186,2024-05-02,Jordan,Direct,Premium
+187,2025-02-16,Jordan,Referral,Standard
+188,2024-06-11,UAE,Organic,Standard
+189,2024-08-19,Qatar,Social,Premium
+190,2024-01-08,Egypt,Social,Standard
+191,2025-01-07,Saudi Arabia,Referral,Standard
+192,2024-02-28,Qatar,Paid Search,Premium
+193,2024-07-20,Jordan,Social,Basic
+194,2024-10-23,Egypt,Organic,Premium
+195,2025-08-09,Saudi Arabia,Paid Search,Premium
+196,2024-10-05,Egypt,Social,Standard
+197,2025-02-21,UAE,Social,Basic
+198,2024-09-11,Saudi Arabia,Direct,Standard
+199,2024-01-03,Saudi Arabia,Paid Search,Basic
+200,2024-05-21,Egypt,Organic,Premium
+201,2025-07-01,Saudi Arabia,Organic,Basic
+202,2025-01-17,Egypt,Direct,Standard
+203,2024-01-07,UAE,Social,Premium
+204,2025-02-14,Jordan,Referral,Basic
+205,2025-02-06,UAE,Organic,Standard
+206,2025-02-09,UAE,Social,Basic
+207,2025-01-14,Jordan,Paid Search,Premium
+208,2025-06-27,Jordan,Social,Standard
+209,2024-01-09,Qatar,Direct,Premium
+210,2024-05-03,Jordan,Paid Search,Premium
+211,2024-02-14,Qatar,Organic,Basic
+212,2024-03-01,UAE,Organic,Basic
+213,2025-01-08,UAE,Organic,Premium
+214,2024-09-25,Saudi Arabia,Paid Search,Premium
+215,2024-07-23,Egypt,Referral,Premium
+216,2025-04-23,Qatar,Referral,Basic
+217,2024-04-24,Qatar,Paid Search,Standard
+218,2024-02-12,Jordan,Direct,Premium
+219,2025-06-30,Egypt,Organic,Basic
+220,2025-04-19,Saudi Arabia,Social,Standard
+221,2024-11-25,Saudi Arabia,Referral,Premium
+222,2025-08-27,UAE,Organic,Standard
+223,2024-10-19,Qatar,Direct,Standard
+224,2024-10-19,Saudi Arabia,Paid Search,Premium
+225,2024-04-02,Jordan,Direct,Basic
+226,2025-07-28,Jordan,Direct,Premium
+227,2025-02-02,Saudi Arabia,Referral,Premium
+228,2024-08-04,Saudi Arabia,Referral,Standard
+229,2025-02-11,Egypt,Paid Search,Basic
+230,2025-09-03,Saudi Arabia,Paid Search,Basic
+231,2025-05-20,Qatar,Social,Basic
+232,2024-11-18,Egypt,Social,Basic
+233,2024-08-28,Egypt,Organic,Standard
+234,2024-05-22,Saudi Arabia,Direct,Standard
+235,2024-02-01,Egypt,Organic,Standard
+236,2025-04-04,UAE,Social,Standard
+237,2024-01-17,UAE,Paid Search,Standard
+238,2024-03-05,Saudi Arabia,Direct,Standard
+239,2024-01-28,Jordan,Referral,Basic
+240,2024-01-05,Jordan,Social,Basic
+241,2024-04-02,Egypt,Social,Basic
+242,2024-11-19,Egypt,Organic,Standard
+243,2025-06-23,Egypt,Direct,Basic
+244,2025-01-17,UAE,Paid Search,Standard
+245,2024-11-05,Jordan,Paid Search,Basic
+246,2025-08-27,Saudi Arabia,Referral,Standard
+247,2025-08-03,Saudi Arabia,Organic,Premium
+248,2025-01-19,Saudi Arabia,Referral,Basic
+249,2024-04-09,Saudi Arabia,Social,Premium
+250,2024-02-25,Saudi Arabia,Social,Basic
+251,2025-08-09,Jordan,Direct,Premium
+252,2025-08-12,Qatar,Social,Standard
+253,2024-11-03,Egypt,Direct,Basic
+254,2025-03-15,Saudi Arabia,Social,Basic
+255,2025-07-21,UAE,Paid Search,Standard
+256,2025-09-13,Egypt,Referral,Premium
+257,2025-07-26,Egypt,Social,Premium
+258,2024-01-08,Saudi Arabia,Social,Basic
+259,2024-07-09,UAE,Social,Standard
+260,2024-03-31,Qatar,Referral,Basic
+261,2024-01-07,Jordan,Direct,Basic
+262,2024-06-16,Jordan,Direct,Standard
+263,2025-03-18,Egypt,Paid Search,Basic
+264,2024-07-13,UAE,Direct,Premium
+265,2025-05-05,UAE,Paid Search,Basic
+266,2025-08-02,Egypt,Referral,Standard
+267,2024-02-10,UAE,Direct,Basic
+268,2024-11-25,UAE,Paid Search,Standard
+269,2025-04-16,Egypt,Direct,Premium
+270,2024-07-10,Saudi Arabia,Paid Search,Standard
+271,2025-04-29,UAE,Direct,Premium
+272,2024-06-12,UAE,Direct,Standard
+273,2024-05-24,Jordan,Paid Search,Basic
+274,2024-07-05,Jordan,Direct,Basic
+275,2024-09-14,Jordan,Organic,Standard
+276,2025-09-23,UAE,Paid Search,Basic
+277,2025-06-12,Saudi Arabia,Referral,Basic
+278,2024-08-05,Saudi Arabia,Social,Premium
+279,2024-03-13,Qatar,Direct,Premium
+280,2024-06-01,Qatar,Organic,Premium
+281,2025-05-09,Saudi Arabia,Referral,Basic
+282,2024-12-02,Saudi Arabia,Referral,Basic
+283,2025-02-02,Jordan,Social,Standard
+284,2025-03-22,Qatar,Direct,Premium
+285,2024-03-12,UAE,Direct,Basic
+286,2024-05-07,Jordan,Organic,Premium
+287,2025-02-06,Saudi Arabia,Paid Search,Basic
+288,2024-06-07,UAE,Social,Premium
+289,2024-06-03,UAE,Social,Standard
+290,2025-04-23,Egypt,Paid Search,Basic
+291,2024-03-18,Egypt,Direct,Premium
+292,2024-02-04,Egypt,Social,Standard
+293,2025-05-04,Jordan,Social,Basic
+294,2024-07-31,Qatar,Referral,Basic
+295,2024-08-31,Egypt,Organic,Standard
+296,2025-09-21,Saudi Arabia,Paid Search,Premium
+297,2025-05-30,Saudi Arabia,Paid Search,Premium
+298,2024-10-21,Jordan,Organic,Premium
+299,2025-04-29,Saudi Arabia,Organic,Basic
+300,2025-05-22,Saudi Arabia,Organic,Premium
+301,2025-03-20,Egypt,Referral,Premium
+302,2024-06-20,Egypt,Social,Standard
+303,2024-05-21,Saudi Arabia,Direct,Basic
+304,2025-03-16,UAE,Organic,Basic
+305,2024-09-07,Egypt,Paid Search,Premium
+306,2024-12-31,Egypt,Referral,Standard
+307,2024-03-13,Saudi Arabia,Direct,Standard
+308,2024-09-30,Saudi Arabia,Direct,Standard
+309,2025-08-23,UAE,Organic,Premium
+310,2024-08-10,Qatar,Direct,Premium
+311,2025-05-11,Qatar,Direct,Premium
+312,2024-10-11,Qatar,Organic,Standard
+313,2025-09-05,Qatar,Social,Basic
+314,2025-08-26,Qatar,Referral,Standard
+315,2024-01-15,Saudi Arabia,Direct,Premium
+316,2024-07-31,UAE,Social,Standard
+317,2024-10-30,UAE,Paid Search,Basic
+318,2024-08-15,Qatar,Referral,Standard
+319,2024-04-13,UAE,Organic,Basic
+320,2025-07-15,Qatar,Direct,Premium
+321,2024-03-17,Jordan,Referral,Premium
+322,2024-10-22,Qatar,Referral,Basic
+323,2024-09-14,Jordan,Organic,Premium
+324,2024-03-15,UAE,Social,Standard
+325,2024-06-16,UAE,Paid Search,Premium
+326,2025-06-27,Saudi Arabia,Social,Standard
+327,2024-06-25,UAE,Referral,Standard
+328,2025-04-17,Qatar,Social,Basic
+329,2025-06-09,Qatar,Direct,Basic
+330,2024-05-11,UAE,Social,Premium
+331,2025-07-13,Egypt,Organic,Standard
+332,2025-07-13,Saudi Arabia,Organic,Standard
+333,2025-06-18,Jordan,Social,Premium
+334,2024-03-19,UAE,Referral,Premium
+335,2025-01-13,Egypt,Referral,Standard
+336,2025-08-11,Qatar,Direct,Standard
+337,2025-02-04,Jordan,Referral,Premium
+338,2025-03-14,Egypt,Direct,Standard
+339,2025-08-03,Egypt,Paid Search,Premium
+340,2025-07-08,UAE,Organic,Premium
+341,2025-03-31,UAE,Paid Search,Standard
+342,2024-05-02,Jordan,Direct,Basic
+343,2025-08-10,UAE,Social,Basic
+344,2025-01-28,Egypt,Paid Search,Basic
+345,2024-04-11,Egypt,Referral,Standard
+346,2024-11-22,Egypt,Direct,Standard
+347,2024-10-11,Saudi Arabia,Social,Premium
+348,2025-06-19,Egypt,Referral,Standard
+349,2025-01-02,Egypt,Referral,Basic
+350,2024-06-25,Saudi Arabia,Social,Standard
+351,2024-10-08,Jordan,Organic,Basic
+352,2025-01-30,Qatar,Social,Standard
+353,2025-06-17,Egypt,Direct,Basic
+354,2024-10-25,Jordan,Referral,Basic
+355,2025-02-28,Egypt,Referral,Standard
+356,2024-11-28,Jordan,Paid Search,Basic
+357,2024-09-19,Saudi Arabia,Referral,Basic
+358,2025-06-08,Qatar,Direct,Standard
+359,2024-10-30,Jordan,Paid Search,Basic
+360,2024-07-25,Qatar,Social,Premium
+361,2025-03-12,Jordan,Direct,Basic
+362,2024-11-21,Egypt,Organic,Premium
+363,2024-03-06,Egypt,Organic,Basic
+364,2025-02-22,UAE,Organic,Premium
+365,2024-11-01,Saudi Arabia,Paid Search,Basic
+366,2025-06-08,Egypt,Organic,Basic
+367,2024-02-16,Saudi Arabia,Organic,Premium
+368,2025-09-18,Qatar,Paid Search,Basic
+369,2025-09-15,Saudi Arabia,Organic,Basic
+370,2024-10-02,Qatar,Organic,Premium
+371,2025-03-19,Jordan,Direct,Standard
+372,2025-09-02,Egypt,Direct,Standard
+373,2024-05-18,Saudi Arabia,Referral,Basic
+374,2025-07-22,Saudi Arabia,Organic,Basic
+375,2025-01-06,Egypt,Direct,Standard
+376,2025-06-23,Jordan,Referral,Standard
+377,2024-02-13,Egypt,Paid Search,Standard
+378,2025-01-21,Egypt,Referral,Premium
+379,2024-01-15,Qatar,Referral,Standard
+380,2024-08-16,Qatar,Referral,Premium
+381,2024-01-20,Saudi Arabia,Direct,Premium
+382,2025-07-15,Jordan,Paid Search,Premium
+383,2025-03-18,Jordan,Paid Search,Premium
+384,2025-09-23,Saudi Arabia,Referral,Basic
+385,2024-02-15,UAE,Organic,Standard
+386,2025-06-27,Qatar,Paid Search,Standard
+387,2025-06-17,Saudi Arabia,Direct,Basic
+388,2025-04-24,UAE,Referral,Basic
+389,2024-02-11,UAE,Organic,Premium
+390,2025-03-26,Egypt,Social,Standard
+391,2025-06-29,Egypt,Social,Standard
+392,2025-09-16,Saudi Arabia,Organic,Premium
+393,2024-11-12,Jordan,Direct,Standard
+394,2024-09-30,Qatar,Paid Search,Basic
+395,2024-01-04,Qatar,Direct,Premium
+396,2024-05-12,Qatar,Referral,Premium
+397,2025-06-16,Egypt,Direct,Standard
+398,2024-04-18,Qatar,Social,Basic
+399,2024-09-07,UAE,Paid Search,Standard
+400,2024-02-01,Saudi Arabia,Direct,Standard
+401,2025-09-29,Saudi Arabia,Paid Search,Standard
+402,2025-03-06,Egypt,Referral,Premium
+403,2024-08-02,Jordan,Social,Basic
+404,2024-01-03,Egypt,Social,Basic
+405,2025-08-27,UAE,Organic,Standard
+406,2024-04-04,Qatar,Organic,Standard
+407,2025-07-07,Qatar,Paid Search,Standard
+408,2024-05-30,Egypt,Referral,Standard
+409,2025-07-30,Saudi Arabia,Social,Premium
+410,2025-07-15,Qatar,Organic,Standard
+411,2024-06-05,UAE,Paid Search,Standard
+412,2024-05-27,UAE,Social,Basic
+413,2025-04-06,Qatar,Direct,Premium
+414,2024-01-28,UAE,Paid Search,Basic
+415,2025-04-27,Qatar,Organic,Basic
+416,2025-03-14,Saudi Arabia,Referral,Premium
+417,2025-07-09,Egypt,Organic,Premium
+418,2025-07-19,Saudi Arabia,Social,Standard
+419,2025-08-17,Saudi Arabia,Referral,Basic
+420,2025-03-31,Egypt,Social,Standard
+421,2024-11-17,UAE,Direct,Premium
+422,2024-03-20,Qatar,Direct,Premium
+423,2024-02-10,Egypt,Paid Search,Standard
+424,2025-06-10,Jordan,Referral,Premium
+425,2024-03-07,Saudi Arabia,Social,Premium
+426,2024-02-29,Qatar,Direct,Standard
+427,2025-01-13,Qatar,Direct,Premium
+428,2025-02-03,UAE,Social,Premium
+429,2024-08-03,Qatar,Referral,Premium
+430,2025-06-08,Egypt,Social,Basic
+431,2025-06-21,Jordan,Paid Search,Basic
+432,2025-05-05,Egypt,Organic,Basic
+433,2024-08-31,Qatar,Social,Premium
+434,2024-04-21,UAE,Organic,Premium
+435,2025-09-09,Jordan,Referral,Premium
+436,2024-03-31,Qatar,Direct,Basic
+437,2024-06-07,Qatar,Direct,Premium
+438,2025-01-31,Jordan,Direct,Basic
+439,2024-01-28,Egypt,Organic,Standard
+440,2025-02-01,Qatar,Organic,Basic
+441,2024-02-18,Egypt,Direct,Basic
+442,2024-08-12,Egypt,Paid Search,Premium
+443,2025-07-22,UAE,Social,Premium
+444,2025-09-13,UAE,Paid Search,Standard
+445,2025-06-07,Egypt,Referral,Premium
+446,2025-04-10,Jordan,Paid Search,Premium
+447,2024-11-19,Jordan,Social,Standard
+448,2024-12-01,Egypt,Direct,Premium
+449,2025-02-27,Qatar,Paid Search,Basic
+450,2024-12-12,Saudi Arabia,Social,Basic
+451,2025-05-13,Egypt,Paid Search,Premium
+452,2024-04-13,UAE,Paid Search,Basic
+453,2024-11-26,Saudi Arabia,Referral,Premium
+454,2024-02-13,Saudi Arabia,Social,Premium
+455,2024-02-03,Saudi Arabia,Paid Search,Premium
+456,2024-04-05,Qatar,Social,Premium
+457,2025-09-09,UAE,Direct,Standard
+458,2024-10-13,Saudi Arabia,Organic,Standard
+459,2025-01-11,Qatar,Direct,Basic
+460,2024-04-17,Jordan,Referral,Basic
+461,2024-11-11,Egypt,Organic,Premium
+462,2024-04-14,UAE,Paid Search,Premium
+463,2024-11-26,Jordan,Paid Search,Standard
+464,2025-07-02,Egypt,Organic,Standard
+465,2025-02-06,Qatar,Direct,Basic
+466,2024-02-08,Qatar,Social,Standard
+467,2025-09-24,Egypt,Direct,Basic
+468,2024-05-25,UAE,Referral,Premium
+469,2024-09-30,Saudi Arabia,Social,Premium
+470,2024-10-25,Saudi Arabia,Social,Standard
+471,2025-08-11,Saudi Arabia,Organic,Basic
+472,2025-03-09,Egypt,Referral,Basic
+473,2024-03-08,Egypt,Paid Search,Basic
+474,2025-09-19,Saudi Arabia,Social,Basic
+475,2025-05-25,Qatar,Paid Search,Basic
+476,2024-12-29,Qatar,Social,Standard
+477,2025-04-08,UAE,Direct,Premium
+478,2024-05-30,Egypt,Paid Search,Basic
+479,2025-06-05,Egypt,Direct,Premium
+480,2024-08-01,Jordan,Paid Search,Premium
+481,2024-03-31,Saudi Arabia,Direct,Standard
+482,2024-11-07,UAE,Paid Search,Basic
+483,2024-06-28,Saudi Arabia,Organic,Standard
+484,2025-01-16,Jordan,Direct,Standard
+485,2024-09-17,Qatar,Paid Search,Premium
+486,2025-03-19,Egypt,Organic,Standard
+487,2024-07-31,Saudi Arabia,Referral,Standard
+488,2025-04-27,Saudi Arabia,Social,Basic
+489,2024-05-05,Saudi Arabia,Direct,Standard
+490,2025-07-11,Saudi Arabia,Organic,Premium
+491,2025-05-13,Saudi Arabia,Direct,Basic
+492,2025-03-10,Jordan,Social,Basic
+493,2024-12-10,Jordan,Paid Search,Basic
+494,2024-03-19,Qatar,Organic,Standard
+495,2025-08-01,Qatar,Organic,Premium
+496,2024-10-20,Jordan,Paid Search,Standard
+497,2024-10-07,Egypt,Social,Premium
+498,2024-02-29,Qatar,Referral,Premium
+499,2024-07-27,Egypt,Social,Standard
+500,2024-01-27,UAE,Direct,Premium
+501,2024-05-08,Qatar,Social,Standard
+502,2024-09-04,UAE,Organic,Basic
+503,2025-03-10,Saudi Arabia,Organic,Premium
+504,2025-08-22,Egypt,Paid Search,Basic
+505,2025-07-25,UAE,Social,Standard
+506,2025-04-08,Egypt,Organic,Premium
+507,2025-01-21,Egypt,Social,Standard
+508,2024-03-20,Jordan,Paid Search,Standard
+509,2025-02-07,UAE,Referral,Basic
+510,2024-02-02,UAE,Paid Search,Basic
+511,2024-08-13,Saudi Arabia,Direct,Premium
+512,2025-07-11,Jordan,Organic,Basic
+513,2025-03-24,Egypt,Direct,Basic
+514,2025-03-07,Egypt,Referral,Premium
+515,2024-01-17,Jordan,Social,Standard
+516,2025-09-21,Jordan,Referral,Basic
+517,2024-11-07,Saudi Arabia,Social,Basic
+518,2024-10-07,Saudi Arabia,Organic,Premium
+519,2024-06-17,UAE,Paid Search,Standard
+520,2024-03-05,Egypt,Referral,Standard
+521,2025-01-04,Egypt,Referral,Basic
+522,2025-01-20,Jordan,Organic,Premium
+523,2025-01-27,UAE,Social,Basic
+524,2025-01-23,UAE,Organic,Premium
+525,2025-08-21,Saudi Arabia,Social,Premium
+526,2024-12-08,Saudi Arabia,Direct,Basic
+527,2024-07-06,Egypt,Social,Standard
+528,2024-09-26,Jordan,Referral,Premium
+529,2024-02-16,Jordan,Paid Search,Premium
+530,2024-11-27,Jordan,Paid Search,Premium
+531,2024-12-08,Saudi Arabia,Organic,Premium
+532,2024-08-01,Saudi Arabia,Referral,Premium
+533,2024-09-18,Qatar,Social,Standard
+534,2024-05-24,UAE,Direct,Premium
+535,2024-08-22,Qatar,Organic,Standard
+536,2025-04-25,UAE,Paid Search,Basic
+537,2024-09-15,Saudi Arabia,Referral,Standard
+538,2024-03-26,Saudi Arabia,Social,Standard
+539,2025-08-17,UAE,Paid Search,Standard
+540,2024-04-05,Jordan,Referral,Premium
+541,2025-08-25,Egypt,Direct,Premium
+542,2025-04-22,Qatar,Referral,Basic
+543,2024-03-06,UAE,Organic,Standard
+544,2024-01-15,Qatar,Referral,Standard
+545,2024-09-06,Egypt,Social,Premium
+546,2025-03-21,Egypt,Organic,Premium
+547,2024-07-17,Jordan,Direct,Standard
+548,2025-05-29,Jordan,Organic,Basic
+549,2025-07-02,Egypt,Paid Search,Basic
+550,2024-11-15,UAE,Direct,Basic
+551,2024-11-28,Jordan,Organic,Standard
+552,2024-08-22,Egypt,Social,Premium
+553,2025-02-26,UAE,Organic,Basic
+554,2025-05-12,Qatar,Organic,Premium
+555,2025-04-12,Jordan,Organic,Premium
+556,2025-02-19,Qatar,Referral,Standard
+557,2024-11-04,UAE,Referral,Standard
+558,2024-02-24,Egypt,Direct,Premium
+559,2024-01-03,UAE,Social,Premium
+560,2024-07-21,UAE,Organic,Standard
+561,2024-09-26,UAE,Paid Search,Basic
+562,2025-02-17,Jordan,Organic,Basic
+563,2024-07-18,Jordan,Paid Search,Premium
+564,2025-03-18,Saudi Arabia,Referral,Premium
+565,2024-01-20,Saudi Arabia,Paid Search,Basic
+566,2024-10-22,Jordan,Organic,Standard
+567,2024-06-06,Jordan,Social,Standard
+568,2025-05-06,Jordan,Organic,Standard
+569,2024-03-18,Saudi Arabia,Referral,Premium
+570,2025-08-25,Qatar,Paid Search,Basic
+571,2024-04-07,Egypt,Social,Basic
+572,2024-07-29,Qatar,Paid Search,Basic
+573,2024-05-18,UAE,Referral,Basic
+574,2024-02-02,Saudi Arabia,Paid Search,Premium
+575,2024-05-13,UAE,Paid Search,Basic
+576,2025-01-16,Egypt,Paid Search,Premium
+577,2024-01-29,Jordan,Direct,Basic
+578,2024-03-18,Jordan,Paid Search,Standard
+579,2025-07-01,Saudi Arabia,Paid Search,Basic
+580,2025-08-12,Jordan,Paid Search,Basic
+581,2024-06-27,Saudi Arabia,Paid Search,Premium
+582,2025-01-22,Jordan,Paid Search,Basic
+583,2024-09-06,Qatar,Referral,Standard
+584,2025-02-25,Saudi Arabia,Referral,Basic
+585,2024-08-09,Saudi Arabia,Paid Search,Premium
+586,2025-02-13,Saudi Arabia,Referral,Premium
+587,2025-03-29,Egypt,Organic,Basic
+588,2024-09-27,Qatar,Direct,Standard
+589,2025-03-15,UAE,Referral,Basic
+590,2024-02-25,Qatar,Referral,Basic
+591,2025-03-23,Egypt,Social,Premium
+592,2024-09-05,Saudi Arabia,Direct,Premium
+593,2025-10-02,Saudi Arabia,Paid Search,Premium
+594,2025-04-28,UAE,Referral,Standard
+595,2024-04-04,Saudi Arabia,Paid Search,Standard
+596,2025-02-17,Saudi Arabia,Referral,Premium
+597,2024-03-08,Saudi Arabia,Social,Standard
+598,2024-06-10,Saudi Arabia,Paid Search,Premium
+599,2025-06-07,Jordan,Direct,Standard
+600,2025-03-02,Saudi Arabia,Organic,Standard
+601,2025-04-29,Saudi Arabia,Paid Search,Basic
+602,2025-02-18,Qatar,Referral,Basic
+603,2024-10-22,Egypt,Referral,Standard
+604,2025-03-20,Saudi Arabia,Paid Search,Standard
+605,2024-08-01,Qatar,Direct,Premium
+606,2025-02-21,UAE,Direct,Premium
+607,2024-12-13,UAE,Paid Search,Standard
+608,2024-07-26,Egypt,Social,Premium
+609,2024-06-03,Saudi Arabia,Organic,Standard
+610,2025-05-01,Jordan,Paid Search,Premium
+611,2025-04-13,Egypt,Paid Search,Premium
+612,2025-10-02,Qatar,Paid Search,Standard
+613,2024-10-04,UAE,Referral,Standard
+614,2025-07-15,Saudi Arabia,Direct,Premium
+615,2025-03-15,UAE,Direct,Basic
+616,2025-02-26,Jordan,Social,Premium
+617,2025-07-05,UAE,Referral,Premium
+618,2025-04-26,Qatar,Paid Search,Premium
+619,2025-09-15,Qatar,Organic,Standard
+620,2024-04-08,Saudi Arabia,Paid Search,Premium
+621,2025-05-27,Jordan,Organic,Standard
+622,2025-06-11,UAE,Social,Basic
+623,2024-01-30,UAE,Organic,Standard
+624,2024-08-01,Egypt,Paid Search,Standard
+625,2024-03-01,Egypt,Paid Search,Basic
+626,2024-04-07,Saudi Arabia,Direct,Premium
+627,2025-03-09,Egypt,Direct,Premium
+628,2024-01-20,Qatar,Paid Search,Standard
+629,2024-10-08,Qatar,Paid Search,Basic
+630,2024-05-14,Jordan,Referral,Standard
+631,2024-07-20,Qatar,Referral,Standard
+632,2025-02-10,UAE,Referral,Premium
+633,2024-10-11,UAE,Direct,Premium
+634,2024-06-17,Egypt,Referral,Standard
+635,2025-02-19,UAE,Paid Search,Premium
+636,2024-04-21,Egypt,Paid Search,Premium
+637,2025-08-22,Qatar,Referral,Basic
+638,2024-08-08,Egypt,Direct,Standard
+639,2025-06-01,Jordan,Organic,Basic
+640,2025-02-27,Egypt,Referral,Premium
+641,2025-04-16,Jordan,Direct,Standard
+642,2025-04-07,Jordan,Social,Premium
+643,2025-07-17,UAE,Paid Search,Standard
+644,2024-08-13,Qatar,Organic,Basic
+645,2024-04-17,Egypt,Organic,Basic
+646,2024-12-24,Qatar,Organic,Basic
+647,2025-02-14,UAE,Direct,Premium
+648,2024-10-05,Qatar,Organic,Basic
+649,2024-07-18,UAE,Paid Search,Standard
+650,2024-10-05,UAE,Social,Premium
+651,2025-03-05,Egypt,Paid Search,Premium
+652,2024-10-07,Qatar,Organic,Standard
+653,2024-02-16,Qatar,Direct,Premium
+654,2024-09-28,Jordan,Organic,Basic
+655,2025-03-20,Egypt,Direct,Basic
+656,2024-02-08,Jordan,Referral,Premium
+657,2024-04-03,Jordan,Social,Basic
+658,2024-10-16,Qatar,Direct,Premium
+659,2024-03-26,Jordan,Organic,Standard
+660,2024-06-14,Jordan,Paid Search,Premium
+661,2025-07-29,Egypt,Social,Basic
+662,2025-02-17,Qatar,Organic,Premium
+663,2024-03-15,Qatar,Direct,Basic
+664,2024-09-09,Saudi Arabia,Paid Search,Basic
+665,2024-07-24,Saudi Arabia,Direct,Premium
+666,2024-12-03,Saudi Arabia,Direct,Standard
+667,2024-06-08,Jordan,Paid Search,Standard
+668,2024-07-21,Jordan,Social,Basic
+669,2025-05-04,Qatar,Organic,Standard
+670,2025-08-28,Jordan,Paid Search,Premium
+671,2025-01-26,Jordan,Organic,Standard
+672,2025-05-07,Jordan,Organic,Standard
+673,2024-04-28,UAE,Paid Search,Premium
+674,2024-04-10,Qatar,Referral,Basic
+675,2024-05-18,Saudi Arabia,Social,Premium
+676,2024-01-05,UAE,Direct,Premium
+677,2024-03-31,Saudi Arabia,Organic,Basic
+678,2024-05-15,Qatar,Social,Premium
+679,2024-11-02,Saudi Arabia,Paid Search,Standard
+680,2024-03-17,Qatar,Paid Search,Standard
+681,2025-05-02,Qatar,Referral,Standard
+682,2025-01-24,Saudi Arabia,Social,Basic
+683,2025-09-11,Jordan,Paid Search,Premium
+684,2024-03-22,Jordan,Social,Standard
+685,2025-09-21,Jordan,Social,Basic
+686,2025-08-14,Saudi Arabia,Paid Search,Basic
+687,2024-06-04,Jordan,Referral,Standard
+688,2024-02-19,Jordan,Paid Search,Basic
+689,2024-12-09,UAE,Referral,Basic
+690,2025-02-24,Qatar,Social,Premium
+691,2024-07-08,Egypt,Organic,Standard
+692,2025-07-15,Saudi Arabia,Referral,Standard
+693,2024-06-20,Saudi Arabia,Paid Search,Premium
+694,2025-05-23,Saudi Arabia,Organic,Basic
+695,2024-05-22,Saudi Arabia,Referral,Standard
+696,2024-03-07,Egypt,Direct,Premium
+697,2025-09-03,Qatar,Referral,Premium
+698,2025-06-22,Saudi Arabia,Social,Standard
+699,2025-09-11,Saudi Arabia,Direct,Premium
+700,2025-09-04,UAE,Organic,Basic
+701,2025-01-13,Jordan,Direct,Premium
+702,2024-12-14,Egypt,Social,Standard
+703,2025-02-15,UAE,Referral,Standard
+704,2025-05-31,Saudi Arabia,Paid Search,Basic
+705,2025-04-04,Jordan,Social,Basic
+706,2025-02-03,Egypt,Paid Search,Premium
+707,2025-01-05,Egypt,Referral,Basic
+708,2024-09-22,Egypt,Organic,Standard
+709,2024-01-24,Jordan,Organic,Standard
+710,2024-10-08,Jordan,Paid Search,Basic
+711,2025-01-22,Qatar,Social,Basic
+712,2024-09-23,Jordan,Direct,Standard
+713,2024-04-15,Jordan,Organic,Premium
+714,2025-02-25,Egypt,Direct,Premium
+715,2024-03-01,Saudi Arabia,Organic,Standard
+716,2024-05-18,Qatar,Paid Search,Basic
+717,2025-04-28,Egypt,Paid Search,Basic
+718,2025-05-28,Jordan,Organic,Standard
+719,2024-06-14,UAE,Paid Search,Basic
+720,2025-07-19,UAE,Paid Search,Basic
+721,2025-07-23,UAE,Referral,Basic
+722,2025-07-02,Saudi Arabia,Social,Standard
+723,2024-06-08,Qatar,Paid Search,Standard
+724,2025-09-12,Qatar,Direct,Standard
+725,2024-02-02,Jordan,Referral,Basic
+726,2024-02-09,Qatar,Referral,Standard
+727,2025-09-11,Jordan,Paid Search,Standard
+728,2024-04-14,Jordan,Paid Search,Standard
+729,2024-01-31,Saudi Arabia,Paid Search,Standard
+730,2025-03-29,UAE,Paid Search,Premium
+731,2025-06-27,Qatar,Paid Search,Basic
+732,2025-03-23,Saudi Arabia,Organic,Premium
+733,2025-01-03,Egypt,Direct,Basic
+734,2025-09-05,Egypt,Direct,Basic
+735,2024-01-30,UAE,Direct,Basic
+736,2024-03-15,Jordan,Referral,Basic
+737,2025-09-28,Saudi Arabia,Referral,Basic
+738,2024-11-04,Jordan,Direct,Standard
+739,2024-05-09,Qatar,Organic,Premium
+740,2024-09-25,Saudi Arabia,Social,Premium
+741,2025-02-23,Egypt,Referral,Premium
+742,2024-05-11,Qatar,Organic,Basic
+743,2024-03-28,Qatar,Direct,Premium
+744,2024-08-16,Jordan,Social,Basic
+745,2024-12-18,Egypt,Direct,Premium
+746,2024-01-26,UAE,Social,Premium
+747,2025-08-22,Jordan,Paid Search,Basic
+748,2024-08-15,Qatar,Social,Standard
+749,2024-09-02,Egypt,Direct,Premium
+750,2024-01-15,Saudi Arabia,Referral,Premium
+751,2024-11-26,Saudi Arabia,Social,Standard
+752,2025-08-29,Qatar,Referral,Premium
+753,2024-01-22,Qatar,Referral,Basic
+754,2025-08-12,Jordan,Social,Premium
+755,2025-03-16,Qatar,Organic,Premium
+756,2024-11-01,Saudi Arabia,Paid Search,Premium
+757,2025-09-14,Qatar,Social,Basic
+758,2025-01-21,Jordan,Organic,Standard
+759,2024-12-05,Egypt,Social,Basic
+760,2024-08-27,Egypt,Referral,Standard
+761,2025-03-30,Jordan,Organic,Standard
+762,2024-11-21,UAE,Social,Standard
+763,2024-04-05,UAE,Social,Premium
+764,2025-07-27,Jordan,Referral,Premium
+765,2025-07-19,Jordan,Paid Search,Standard
+766,2024-08-13,Jordan,Direct,Standard
+767,2024-07-18,Egypt,Social,Premium
+768,2025-09-20,UAE,Direct,Standard
+769,2024-10-29,Saudi Arabia,Referral,Standard
+770,2025-05-25,UAE,Referral,Basic
+771,2025-06-28,Saudi Arabia,Paid Search,Basic
+772,2024-05-24,Saudi Arabia,Paid Search,Basic
+773,2024-11-04,Qatar,Organic,Basic
+774,2024-10-07,Jordan,Social,Premium
+775,2024-05-09,Saudi Arabia,Organic,Premium
+776,2024-12-04,Saudi Arabia,Paid Search,Standard
+777,2025-09-06,Jordan,Referral,Premium
+778,2024-12-12,Saudi Arabia,Social,Standard
+779,2025-08-21,Jordan,Social,Basic
+780,2025-05-25,Qatar,Social,Basic
+781,2024-06-15,Saudi Arabia,Paid Search,Standard
+782,2025-04-08,Jordan,Paid Search,Basic
+783,2024-08-14,UAE,Direct,Standard
+784,2025-09-06,Saudi Arabia,Referral,Basic
+785,2024-08-15,Jordan,Referral,Premium
+786,2025-07-04,UAE,Direct,Standard
+787,2024-08-19,Jordan,Referral,Basic
+788,2024-05-23,Qatar,Social,Standard
+789,2024-07-07,Qatar,Direct,Basic
+790,2025-03-29,UAE,Organic,Standard
+791,2024-10-29,UAE,Direct,Basic
+792,2024-05-14,Jordan,Referral,Basic
+793,2025-02-21,Egypt,Direct,Basic
+794,2024-05-02,Saudi Arabia,Paid Search,Premium
+795,2024-06-29,Egypt,Social,Premium
+796,2024-08-02,Egypt,Organic,Standard
+797,2024-08-14,UAE,Referral,Basic
+798,2024-08-08,Jordan,Paid Search,Premium
+799,2024-06-09,Qatar,Organic,Standard
+800,2025-06-28,Saudi Arabia,Organic,Basic
+801,2024-06-03,Jordan,Social,Basic
+802,2025-08-22,Jordan,Organic,Premium
+803,2024-09-02,UAE,Paid Search,Standard
+804,2025-09-25,UAE,Social,Premium
+805,2025-05-13,Jordan,Direct,Basic
+806,2024-01-03,Jordan,Organic,Basic
+807,2025-08-18,Saudi Arabia,Social,Basic
+808,2025-01-20,UAE,Paid Search,Standard
+809,2025-01-20,Saudi Arabia,Social,Basic
+810,2025-06-10,Saudi Arabia,Referral,Premium
+811,2024-11-12,Jordan,Social,Premium
+812,2025-09-28,UAE,Paid Search,Basic
+813,2024-10-19,Saudi Arabia,Paid Search,Basic
+814,2024-08-27,Jordan,Social,Premium
+815,2025-04-24,Egypt,Direct,Basic
+816,2024-10-18,Saudi Arabia,Social,Standard
+817,2025-03-27,Saudi Arabia,Paid Search,Standard
+818,2024-01-14,Jordan,Direct,Standard
+819,2024-12-27,UAE,Direct,Premium
+820,2024-04-16,Jordan,Social,Standard
+821,2025-03-14,Egypt,Social,Standard
+822,2024-02-29,Saudi Arabia,Paid Search,Premium
+823,2025-04-27,Egypt,Organic,Basic
+824,2024-01-28,Qatar,Paid Search,Premium
+825,2024-03-29,Saudi Arabia,Social,Premium
+826,2024-02-26,Egypt,Organic,Premium
+827,2025-10-01,Jordan,Paid Search,Basic
+828,2024-09-08,Jordan,Organic,Standard
+829,2025-05-04,Qatar,Social,Basic
+830,2025-01-30,Egypt,Social,Basic
+831,2024-12-09,UAE,Paid Search,Basic
+832,2024-07-22,Egypt,Organic,Premium
+833,2024-12-30,Qatar,Paid Search,Basic
+834,2024-05-21,Egypt,Direct,Premium
+835,2024-10-18,Qatar,Referral,Standard
+836,2024-08-13,Egypt,Organic,Basic
+837,2024-10-19,UAE,Direct,Standard
+838,2024-07-16,Jordan,Organic,Basic
+839,2024-09-07,Egypt,Referral,Basic
+840,2025-08-06,Qatar,Direct,Premium
+841,2024-06-01,UAE,Organic,Basic
+842,2024-05-26,Saudi Arabia,Social,Standard
+843,2025-09-05,Qatar,Social,Standard
+844,2025-09-19,UAE,Paid Search,Standard
+845,2025-07-02,Saudi Arabia,Organic,Standard
+846,2025-07-21,UAE,Social,Standard
+847,2024-12-16,Qatar,Organic,Standard
+848,2024-08-03,Qatar,Paid Search,Basic
+849,2024-04-06,Jordan,Referral,Premium
+850,2024-02-01,Egypt,Referral,Basic
+851,2025-03-14,Egypt,Referral,Basic
+852,2025-03-17,Egypt,Paid Search,Standard
+853,2024-03-06,UAE,Social,Basic
+854,2024-10-13,Saudi Arabia,Referral,Basic
+855,2024-09-11,Egypt,Referral,Premium
+856,2025-02-05,Saudi Arabia,Social,Premium
+857,2025-04-25,Egypt,Referral,Premium
+858,2025-03-27,Qatar,Referral,Premium
+859,2025-03-12,UAE,Paid Search,Standard
+860,2025-08-14,Saudi Arabia,Referral,Basic
+861,2024-01-23,Saudi Arabia,Social,Premium
+862,2024-05-21,Saudi Arabia,Organic,Standard
+863,2025-08-15,UAE,Direct,Standard
+864,2024-11-30,Egypt,Direct,Standard
+865,2024-04-22,UAE,Organic,Standard
+866,2024-05-09,Egypt,Social,Premium
+867,2025-05-19,UAE,Direct,Basic
+868,2024-11-23,Jordan,Direct,Standard
+869,2025-08-21,UAE,Referral,Premium
+870,2024-10-02,UAE,Organic,Basic
+871,2025-08-12,Jordan,Referral,Standard
+872,2025-01-15,Jordan,Paid Search,Basic
+873,2024-07-19,Saudi Arabia,Social,Standard
+874,2025-07-17,Jordan,Referral,Standard
+875,2025-05-19,Qatar,Social,Basic
+876,2025-01-17,Jordan,Direct,Standard
+877,2024-02-23,Egypt,Organic,Basic
+878,2024-08-23,Qatar,Direct,Basic
+879,2024-04-05,Saudi Arabia,Social,Premium
+880,2024-05-27,UAE,Paid Search,Standard
+881,2024-06-08,Jordan,Direct,Premium
+882,2024-10-03,Saudi Arabia,Organic,Premium
+883,2025-02-08,Egypt,Social,Premium
+884,2025-03-31,Jordan,Social,Basic
+885,2025-02-20,UAE,Paid Search,Premium
+886,2025-03-12,UAE,Organic,Basic
+887,2024-03-09,UAE,Paid Search,Basic
+888,2024-02-20,Qatar,Referral,Premium
+889,2024-10-01,UAE,Social,Standard
+890,2025-07-10,UAE,Paid Search,Basic
+891,2025-03-09,Egypt,Direct,Standard
+892,2024-01-24,Qatar,Paid Search,Premium
+893,2025-07-07,Qatar,Social,Standard
+894,2024-03-28,UAE,Social,Basic
+895,2024-12-09,Saudi Arabia,Direct,Standard
+896,2025-03-21,Qatar,Paid Search,Basic
+897,2025-07-29,Saudi Arabia,Social,Standard
+898,2025-08-04,Jordan,Organic,Basic
+899,2024-05-29,Saudi Arabia,Direct,Standard
+900,2024-04-05,Qatar,Paid Search,Standard
+901,2024-02-21,Jordan,Organic,Basic
+902,2024-12-05,Saudi Arabia,Social,Basic
+903,2025-05-01,Saudi Arabia,Direct,Premium
+904,2024-03-02,Qatar,Organic,Basic
+905,2025-06-20,Qatar,Direct,Premium
+906,2024-02-06,Saudi Arabia,Referral,Premium
+907,2024-03-10,Jordan,Referral,Basic
+908,2024-10-05,UAE,Organic,Standard
+909,2025-02-19,Egypt,Direct,Standard
+910,2024-03-18,UAE,Referral,Basic
+911,2025-06-18,Jordan,Referral,Premium
+912,2024-08-10,Egypt,Referral,Standard
+913,2024-11-23,Saudi Arabia,Direct,Basic
+914,2024-07-20,Jordan,Direct,Premium
+915,2024-01-13,Jordan,Social,Premium
+916,2024-11-21,Egypt,Referral,Standard
+917,2024-04-22,Egypt,Social,Premium
+918,2024-09-25,Jordan,Organic,Premium
+919,2024-02-08,UAE,Social,Premium
+920,2024-04-15,Egypt,Direct,Premium
+921,2025-07-26,UAE,Social,Premium
+922,2024-04-15,Egypt,Organic,Basic
+923,2025-01-09,Qatar,Social,Standard
+924,2025-06-13,Egypt,Organic,Basic
+925,2025-08-05,Qatar,Social,Standard
+926,2025-03-25,Saudi Arabia,Direct,Premium
+927,2025-06-17,UAE,Paid Search,Basic
+928,2025-02-27,Jordan,Social,Basic
+929,2024-11-24,Jordan,Referral,Premium
+930,2024-07-31,Saudi Arabia,Paid Search,Standard
+931,2024-12-31,Qatar,Organic,Premium
+932,2024-12-22,Egypt,Referral,Standard
+933,2024-06-02,Qatar,Referral,Basic
+934,2025-01-08,UAE,Paid Search,Premium
+935,2025-08-30,Qatar,Paid Search,Standard
+936,2024-06-12,Egypt,Social,Premium
+937,2024-05-25,Jordan,Social,Premium
+938,2025-05-08,Saudi Arabia,Direct,Basic
+939,2024-03-09,Saudi Arabia,Direct,Standard
+940,2025-03-11,Egypt,Direct,Standard
+941,2025-09-11,UAE,Organic,Basic
+942,2024-01-07,UAE,Direct,Standard
+943,2024-07-28,UAE,Social,Basic
+944,2025-05-05,Egypt,Social,Premium
+945,2025-07-27,UAE,Referral,Standard
+946,2024-03-12,Saudi Arabia,Organic,Basic
+947,2024-11-23,UAE,Direct,Standard
+948,2024-11-03,Egypt,Organic,Basic
+949,2024-01-05,Qatar,Social,Basic
+950,2024-01-08,Qatar,Direct,Standard
+951,2024-05-08,Jordan,Social,Basic
+952,2025-07-22,UAE,Social,Standard
+953,2025-04-25,Egypt,Organic,Basic
+954,2025-05-28,Saudi Arabia,Paid Search,Standard
+955,2024-05-11,Egypt,Direct,Standard
+956,2024-07-22,Jordan,Direct,Basic
+957,2024-01-09,Egypt,Organic,Basic
+958,2024-03-15,Jordan,Paid Search,Premium
+959,2024-10-12,UAE,Paid Search,Standard
+960,2024-10-24,Egypt,Paid Search,Premium
+961,2024-02-23,Saudi Arabia,Social,Premium
+962,2025-04-02,Egypt,Organic,Premium
+963,2025-03-13,Jordan,Direct,Premium
+964,2025-05-01,Jordan,Social,Standard
+965,2025-09-16,Egypt,Referral,Standard
+966,2025-02-16,Egypt,Social,Standard
+967,2024-02-11,Qatar,Direct,Premium
+968,2025-01-21,Qatar,Paid Search,Basic
+969,2024-10-21,Saudi Arabia,Organic,Basic
+970,2025-09-21,Saudi Arabia,Paid Search,Basic
+971,2024-10-15,UAE,Social,Premium
+972,2025-01-08,UAE,Social,Premium
+973,2024-07-24,UAE,Paid Search,Basic
+974,2025-08-16,Jordan,Referral,Basic
+975,2025-09-30,Jordan,Social,Basic
+976,2025-01-05,Saudi Arabia,Social,Premium
+977,2024-09-06,Egypt,Organic,Basic
+978,2024-12-08,Egypt,Direct,Basic
+979,2024-03-25,Saudi Arabia,Organic,Premium
+980,2024-04-08,Jordan,Organic,Standard
+981,2024-06-04,Egypt,Organic,Basic
+982,2025-05-31,Jordan,Paid Search,Standard
+983,2024-12-23,Qatar,Direct,Premium
+984,2024-08-01,Saudi Arabia,Social,Standard
+985,2025-09-04,Egypt,Direct,Basic
+986,2024-08-13,Saudi Arabia,Referral,Premium
+987,2025-05-27,UAE,Referral,Standard
+988,2024-04-01,Qatar,Paid Search,Basic
+989,2024-10-17,Qatar,Social,Standard
+990,2025-08-06,Jordan,Referral,Standard
+991,2024-09-05,Qatar,Social,Premium
+992,2025-01-31,Saudi Arabia,Paid Search,Basic
+993,2024-01-24,UAE,Organic,Standard
+994,2024-05-22,Egypt,Social,Standard
+995,2024-05-29,Qatar,Paid Search,Standard
+996,2025-02-06,Qatar,Referral,Standard
+997,2025-08-29,UAE,Social,Premium
+998,2024-05-11,Saudi Arabia,Organic,Basic
+999,2024-02-05,UAE,Organic,Premium
+1000,2025-02-04,Jordan,Organic,Standard
+1001,2025-01-21,Jordan,Referral,Basic
+1002,2025-08-26,Jordan,Direct,Standard
+1003,2024-10-13,UAE,Paid Search,Standard
+1004,2024-04-27,Egypt,Paid Search,Premium
+1005,2024-02-28,UAE,Paid Search,Standard
+1006,2025-03-06,UAE,Social,Premium
+1007,2024-07-24,Jordan,Organic,Basic
+1008,2024-02-28,Jordan,Direct,Basic
+1009,2025-06-22,Qatar,Direct,Basic
+1010,2024-03-08,Qatar,Social,Premium
+1011,2024-04-26,Jordan,Referral,Premium
+1012,2024-02-15,UAE,Direct,Premium
+1013,2024-08-24,Saudi Arabia,Referral,Basic
+1014,2024-12-09,Qatar,Direct,Basic
+1015,2025-10-01,Jordan,Direct,Premium
+1016,2024-08-23,Jordan,Referral,Premium
+1017,2024-08-13,Egypt,Social,Standard
+1018,2024-03-31,UAE,Social,Standard
+1019,2024-06-23,Qatar,Organic,Premium
+1020,2024-03-25,UAE,Paid Search,Premium
+1021,2025-03-15,Qatar,Organic,Standard
+1022,2025-08-08,Saudi Arabia,Social,Premium
+1023,2024-09-19,Egypt,Organic,Standard
+1024,2024-08-13,Jordan,Organic,Basic
+1025,2024-12-23,Qatar,Paid Search,Premium
+1026,2024-09-07,Jordan,Direct,Standard
+1027,2025-05-24,UAE,Direct,Standard
+1028,2025-09-25,Qatar,Referral,Basic
+1029,2024-04-06,Qatar,Direct,Basic
+1030,2024-11-11,UAE,Social,Premium
+1031,2024-08-26,Egypt,Social,Premium
+1032,2024-12-30,Jordan,Organic,Standard
+1033,2025-05-12,Egypt,Social,Premium
+1034,2024-04-10,Qatar,Social,Standard
+1035,2025-02-11,UAE,Direct,Premium
+1036,2024-08-09,Egypt,Paid Search,Standard
+1037,2025-07-11,Qatar,Referral,Basic
+1038,2024-03-30,Egypt,Paid Search,Standard
+1039,2025-02-15,UAE,Direct,Basic
+1040,2024-07-07,Egypt,Social,Standard
+1041,2025-03-30,Qatar,Direct,Basic
+1042,2025-08-06,UAE,Social,Premium
+1043,2025-02-10,Jordan,Social,Standard
+1044,2024-06-22,UAE,Direct,Premium
+1045,2025-09-08,Qatar,Direct,Basic
+1046,2025-04-19,Saudi Arabia,Direct,Premium
+1047,2024-09-04,Saudi Arabia,Direct,Premium
+1048,2024-04-18,UAE,Referral,Standard
+1049,2025-09-29,Egypt,Social,Standard
+1050,2024-06-04,Egypt,Referral,Premium
+1051,2025-05-22,Egypt,Referral,Basic
+1052,2025-07-16,UAE,Direct,Standard
+1053,2025-06-28,Jordan,Referral,Basic
+1054,2024-03-15,Saudi Arabia,Organic,Standard
+1055,2024-04-21,Egypt,Referral,Standard
+1056,2025-07-18,Qatar,Paid Search,Premium
+1057,2024-03-12,UAE,Direct,Standard
+1058,2025-02-09,Saudi Arabia,Organic,Premium
+1059,2025-06-29,Egypt,Organic,Premium
+1060,2024-04-26,Saudi Arabia,Direct,Standard
+1061,2024-02-10,Jordan,Referral,Basic
+1062,2024-01-05,Qatar,Paid Search,Standard
+1063,2024-10-03,Qatar,Paid Search,Premium
+1064,2025-04-02,Qatar,Social,Standard
+1065,2025-04-19,Jordan,Paid Search,Premium
+1066,2024-01-18,UAE,Direct,Basic
+1067,2024-01-19,Jordan,Organic,Premium
+1068,2024-06-02,Saudi Arabia,Organic,Basic
+1069,2025-06-03,Egypt,Organic,Standard
+1070,2024-10-08,UAE,Direct,Basic
+1071,2025-02-15,Qatar,Referral,Basic
+1072,2024-07-04,UAE,Paid Search,Basic
+1073,2025-02-21,Qatar,Paid Search,Basic
+1074,2025-07-28,Jordan,Social,Basic
+1075,2024-02-12,Jordan,Social,Premium
+1076,2024-07-19,Jordan,Paid Search,Standard
+1077,2024-06-25,Egypt,Social,Basic
+1078,2024-09-22,Qatar,Social,Standard
+1079,2024-09-01,Egypt,Referral,Basic
+1080,2024-11-30,Egypt,Organic,Premium
+1081,2024-10-10,Saudi Arabia,Social,Premium
+1082,2025-09-03,Saudi Arabia,Social,Premium
+1083,2025-05-22,Saudi Arabia,Organic,Premium
+1084,2025-01-24,Qatar,Social,Basic
+1085,2025-01-05,Saudi Arabia,Referral,Standard
+1086,2024-08-12,Saudi Arabia,Referral,Premium
+1087,2024-03-08,Saudi Arabia,Social,Premium
+1088,2025-03-15,Qatar,Direct,Premium
+1089,2025-03-04,Saudi Arabia,Direct,Basic
+1090,2024-10-01,Qatar,Paid Search,Standard
+1091,2025-07-29,UAE,Referral,Premium
+1092,2025-07-14,Egypt,Paid Search,Standard
+1093,2025-05-21,UAE,Social,Standard
+1094,2024-11-02,Qatar,Referral,Basic
+1095,2024-06-06,Jordan,Social,Standard
+1096,2025-01-08,Qatar,Social,Basic
+1097,2025-06-04,Qatar,Referral,Basic
+1098,2024-06-11,Egypt,Direct,Premium
+1099,2024-08-11,Saudi Arabia,Referral,Basic
+1100,2025-03-16,Qatar,Referral,Premium
+1101,2024-02-02,Saudi Arabia,Organic,Premium
+1102,2024-11-08,Saudi Arabia,Organic,Standard
+1103,2024-02-02,Qatar,Paid Search,Premium
+1104,2024-10-02,Egypt,Social,Basic
+1105,2024-01-09,Jordan,Social,Basic
+1106,2024-10-14,UAE,Direct,Basic
+1107,2025-08-03,Jordan,Social,Standard
+1108,2024-08-20,Egypt,Paid Search,Premium
+1109,2024-11-18,Saudi Arabia,Referral,Premium
+1110,2024-01-05,UAE,Direct,Basic
+1111,2024-03-05,Egypt,Paid Search,Standard
+1112,2025-07-26,Saudi Arabia,Organic,Standard
+1113,2024-02-09,UAE,Organic,Standard
+1114,2024-12-17,Jordan,Paid Search,Premium
+1115,2024-04-06,Saudi Arabia,Paid Search,Standard
+1116,2024-08-20,Jordan,Paid Search,Standard
+1117,2025-09-02,Saudi Arabia,Paid Search,Basic
+1118,2025-05-18,Qatar,Referral,Basic
+1119,2024-03-21,Jordan,Organic,Basic
+1120,2024-09-01,Saudi Arabia,Direct,Basic
+1121,2024-10-08,UAE,Social,Standard
+1122,2024-07-08,Egypt,Referral,Basic
+1123,2025-07-18,Egypt,Social,Basic
+1124,2024-12-18,Jordan,Organic,Premium
+1125,2025-01-07,Egypt,Paid Search,Premium
+1126,2024-07-16,Qatar,Referral,Standard
+1127,2024-10-26,Saudi Arabia,Organic,Standard
+1128,2025-03-17,Jordan,Direct,Premium
+1129,2024-03-23,Qatar,Paid Search,Standard
+1130,2024-04-06,Jordan,Social,Premium
+1131,2024-11-07,Saudi Arabia,Referral,Standard
+1132,2024-08-13,Egypt,Organic,Standard
+1133,2024-05-18,Egypt,Paid Search,Premium
+1134,2024-04-20,Egypt,Social,Basic
+1135,2024-09-10,Egypt,Referral,Standard
+1136,2024-04-07,UAE,Organic,Premium
+1137,2024-11-21,Egypt,Referral,Standard
+1138,2024-06-19,Egypt,Referral,Basic
+1139,2024-06-26,Egypt,Organic,Premium
+1140,2024-09-20,Qatar,Organic,Premium
+1141,2025-03-28,Egypt,Paid Search,Basic
+1142,2025-08-26,Qatar,Organic,Standard
+1143,2025-08-07,UAE,Organic,Premium
+1144,2025-03-17,UAE,Organic,Basic
+1145,2025-09-25,Qatar,Referral,Basic
+1146,2025-03-22,Egypt,Organic,Standard
+1147,2024-12-09,Jordan,Referral,Premium
+1148,2025-09-22,Qatar,Direct,Basic
+1149,2024-05-08,Egypt,Social,Basic
+1150,2024-04-12,UAE,Paid Search,Standard
+1151,2024-08-22,Qatar,Direct,Premium
+1152,2024-02-09,Saudi Arabia,Direct,Standard
+1153,2024-04-02,Saudi Arabia,Paid Search,Basic
+1154,2024-05-28,Saudi Arabia,Direct,Basic
+1155,2025-02-14,Saudi Arabia,Referral,Basic
+1156,2024-05-28,Qatar,Paid Search,Premium
+1157,2024-08-31,Jordan,Paid Search,Standard
+1158,2024-05-15,Egypt,Referral,Standard
+1159,2025-03-28,Egypt,Social,Basic
+1160,2025-09-12,Qatar,Organic,Basic
+1161,2024-12-05,Saudi Arabia,Direct,Basic
+1162,2024-10-19,Saudi Arabia,Paid Search,Basic
+1163,2025-06-17,UAE,Referral,Basic
+1164,2025-03-22,Qatar,Referral,Basic
+1165,2024-03-27,Jordan,Paid Search,Premium
+1166,2025-08-22,Egypt,Social,Basic
+1167,2024-04-19,Saudi Arabia,Organic,Standard
+1168,2024-05-30,Qatar,Organic,Premium
+1169,2025-04-23,Qatar,Paid Search,Standard
+1170,2024-12-13,Jordan,Social,Basic
+1171,2024-06-14,Qatar,Organic,Standard
+1172,2024-05-24,Qatar,Organic,Premium
+1173,2024-02-24,Qatar,Social,Basic
+1174,2025-09-25,UAE,Paid Search,Basic
+1175,2025-08-30,Qatar,Paid Search,Standard
+1176,2025-08-03,Jordan,Referral,Standard
+1177,2024-08-11,Egypt,Social,Standard
+1178,2024-04-26,Jordan,Referral,Basic
+1179,2025-08-01,Qatar,Social,Standard
+1180,2024-01-02,Egypt,Referral,Standard
+1181,2025-09-01,Qatar,Organic,Standard
+1182,2024-07-20,Jordan,Referral,Standard
+1183,2024-11-21,Jordan,Organic,Basic
+1184,2024-01-07,UAE,Social,Premium
+1185,2025-06-17,UAE,Direct,Standard
+1186,2025-07-22,Qatar,Organic,Basic
+1187,2024-11-13,Saudi Arabia,Organic,Basic
+1188,2025-08-31,Saudi Arabia,Direct,Standard
+1189,2025-04-08,Egypt,Organic,Basic
+1190,2024-02-18,Saudi Arabia,Organic,Premium
+1191,2024-07-29,Saudi Arabia,Social,Premium
+1192,2025-04-15,Saudi Arabia,Referral,Premium
+1193,2024-03-11,Qatar,Paid Search,Basic
+1194,2025-03-10,Qatar,Direct,Basic
+1195,2024-02-15,Jordan,Paid Search,Premium
+1196,2024-05-15,Egypt,Paid Search,Basic
+1197,2024-02-19,Saudi Arabia,Organic,Basic
+1198,2024-09-07,Saudi Arabia,Social,Basic
+1199,2024-04-12,Qatar,Referral,Basic
+1200,2024-06-01,Jordan,Organic,Basic
